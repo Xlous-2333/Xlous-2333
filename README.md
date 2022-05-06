@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Xlous-2333
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Python, AI
+- 🌱 I’m currently learning Python, CNN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-        QQ:1960514697
+        QQ: 1960514697
+        E-mail: suxlous1960@gmail.com
 
 <!---
 Xlous-2333/Xlous-2333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
