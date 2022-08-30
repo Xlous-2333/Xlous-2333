@@ -1,0 +1,55 @@
+IDM相关:
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+netdisk;7.2.6.2;PC;PC-Windows;6.3.9600;WindowsBaiduYunGuanJia
+netdisk;3.0.0.112
+
+电脑默认安装位置:
+计算机\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion
+ProgramFilesDir
+C:\Program Files
+CommonFilesDir
+C:\Program Files\Common Files
+CommonFilesDir (x86)
+C:\Program Files (x86)\Common Files
+CommonW6432Dir
+C:\Program Files\Common Files
+想要安装位置：
+E:\Program Files (x86)
+全局默认字体：
+Microsoft YaHei UI   9pt
+
+微软商店：
+https://store.rg-adguard.net/
+在搜索栏选择搜索方式	PackageFamilyName
+ring保持为			RP
+输入搜索关键字		Microsoft.WindowsStore_8wekyb3d8bbwe
+下载各x64的包在同一目录下
+在PowerShell执行		Add-AppxPackage *
+
+游戏:
+极限竞速：地平线4 v1.465.282.0 (95GB) J0040  (提取码：ffff) (激活码：887459)
+版本介绍：v1.465.282.0版 | Steam终极版 | 官方简体中文 | 支持键盘、鼠标、手柄
+尼尔机械纪元 (49GB) N0006  (提取码：ffff) (激活码：001214)
+版本介绍：集成1号升级档 | 集成修正优化补丁 | 集成v6.5完整简体中文汉化 | 支持键盘、鼠标、手柄 | 赠官方原声31首GM | 赠官方原画集 | 赠通关存档 | 赠多项修改器 | 赠白裙MOD
+微软飞行模拟2020 (96.9GB) W0012  (提取码：ffff) (激活码：358774)
+版本介绍：v1.7.12.0版 | 内置LMAO1.0简中汉化 | 支持键盘、鼠标、手柄 | 赠多项修改器
+死或生6 单机/同屏多人 (58.6GB) S0032  (提取码：qqhe) (激活码：578996)
+版本介绍：v1.21#17版 | 集成全DLC | 官方简体中文 | 支持键盘、鼠标、手柄 | 赠官方原声25首BGM | 赠多项修改器 | 赠全模式、称号、音乐、DOA百科、小知识全解锁存档 | 赠多人同屏教程 | 赠死或生5最后一战v1.10C | 中文设置：OPTIONS-LANGUAGE-MENUS-简体中文-返回
+
+
+JetBrains激活插件:
+https://plugins.zhile.io
+
+镜像源：
+https://mirrors.aliyun.com/pypi/simple/
+https://pypi.tuna.tsinghua.edu.cn/simple/
+修改镜像源：
+pip config --global set  global.index-url https://pypi.tuna.tsinghua.edu.cn/simple/
+
+
+Scrcpy命令：
+scrcpy -m3088 --max-fps 120 -S
+
+
+
+
