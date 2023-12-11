@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Xlous-2333
 - 👀 I’m interested in Python, AI
-- 🌱 I’m currently learning Python, CNN
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, DeepLearn
 - 📫 How to reach me :
         QQ: 1960514697
         E-mail: suxlous1960@gmail.com
